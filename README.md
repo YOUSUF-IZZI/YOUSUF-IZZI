@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousif Al-Ezzi</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousif-izzi&label=Profile%20views&color=0e75b6&style=flat" alt="yousif-izzi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousuf-izzi&label=Profile%20views&color=0e75b6&style=flat" alt="yousif-izzi" /> </p>
 
 - 🔭 I’m currently working on **AI based mobile applications**
 
